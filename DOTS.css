@@ -617,7 +617,9 @@ border-radius: 50%;
     color: #fff;
   }
 
-
+  label.fas.fa-search {
+    padding-left: 10px;
+}
 
 
 

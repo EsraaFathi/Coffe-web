@@ -105,6 +105,8 @@ console.log(searchInput);
 
     function filterCities() {
       var text = searchInput.value
+      console.log(searchInput ,suggestions, text);
+
       var regex = new RegExp(text, "i")
 
       var filteredData = cities.filter((element) => {
@@ -143,16 +145,6 @@ console.log(searchInput);
   //  })
 
   //  console.log(newArr.join(''));
-
-
-
-
-
-
-
-
-
-
 
 
 
