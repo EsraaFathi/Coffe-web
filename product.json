@@ -7,7 +7,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/640px-A_small_cup_of_coffee.JPG",
       "id": 1,
-      "price":19
+      "price":40,
+      "rating": {"rate": 3.9 , "count": 120}
+
   },
   {
       "title": "Latte",
@@ -18,7 +20,10 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Latte_at_Doppio_Ristretto_Chiang_Mai_01.jpg/509px-Latte_at_Doppio_Ristretto_Chiang_Mai_01.jpg",
       "id": 2,
-      "price":10
+      "price":30,
+      "rating": {"rate": 4 , "count": 130}
+
+
   },
   {
       "title": "Cappuccino",
@@ -30,7 +35,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Wet_Cappuccino_with_heart_latte_art.jpg",
       "id": 3,
-      "price":20
+      "price":20,
+      "rating": {"rate": 2.3 , "count": 220}
+
   },
   {
       "title": "Americano",
@@ -41,7 +48,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Hokitika_Cheese_and_Deli%2C_Hokitika_%283526706594%29.jpg/1280px-Hokitika_Cheese_and_Deli%2C_Hokitika_%283526706594%29.jpg",
       "id": 4,
-      "price":15
+      "price":15,
+      "rating": {"rate": 4.4 , "count": 150}
+
   },
   {
       "title": "Espresso",
@@ -50,7 +59,11 @@
           "1oz Espresso"
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tazzina_di_caff%C3%A8_a_Ventimiglia.jpg",
-      "id": 5
+      "id":5,
+      "price":55,
+      "rating": {"rate": 3 , "count": 100}
+
+
   },
   {
       "title": "Doppio",
@@ -60,7 +73,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Doppio.jpg/2560px-Doppio.jpg",
       "id": 6,
-      "price":18
+      "price":49,
+      "rating": {"rate": 1.9 , "count": 90}
+
   },
   {
       "title": "Cortado",
@@ -71,7 +86,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Caf%C3%A9Cortado%28Tallat%29.jpg",
       "id": 7,
-      "price":19
+      "price":46,
+      "rating": {"rate": 4.1 , "count": 345}
+
   },
   {
       "title": "Red Eye",
@@ -82,7 +99,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Linea_doubleespresso.jpg",
       "id": 8,
-      "price":10
+      "price":20,
+      "rating": {"rate": 4.5 , "count": 190}
+
   },
   {
       "title": "Galão",
@@ -93,7 +112,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Gal%C3%A3o.jpg/1280px-Gal%C3%A3o.jpg",
       "id": 9,
-      "price":15
+      "price":15,
+      "rating": {"rate": 3 , "count": 225}
+
   },
   {
       "title": "Lungo",
@@ -103,7 +124,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Caff%C3%A8_lungo.JPG",
       "id": 10,
-      "price":17
+      "price":43,
+      "rating": {"rate": 2.9 , "count": 330}
+
   },
   {
       "title": "Macchiato",
@@ -114,7 +137,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Caff%C3%A8_Espresso_Macchiato_Schiumato.jpg",
       "id": 11,
-      "price":19
+      "price":82,
+      "rating": {"rate": 4.9 , "count": 500}
+
   },
   {
       "title": "Mocha",
@@ -126,7 +151,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Mocaccino-Coffee.jpg",
       "id": 12,
-      "price":15
+      "price":40,
+      "rating": {"rate": 1.9 , "count": 300}
+
   },
   {
       "title": "Ristretto",
@@ -136,7 +163,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Doppio_ristretto_Chiang_Mai.jpg",
       "id": 13,
-      "price":18
+      "price":47,
+      "rating": {"rate": 2.9 , "count": 150}
+
   },
   {
       "title": "Flat White",
@@ -147,7 +176,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Flat_white_coffee_with_pretty_feather_pattern.jpg",
       "id": 14,
-      "price":14
+      "price":13,
+      "rating": {"rate": 3.6 , "count": 89}
+
   },
   {
       "title": "Affogato",
@@ -158,7 +189,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Vinoteca%2C_Smithfield%2C_London_%284485849609%29.jpg",
       "id": 15,
-      "price":19
+      "price":66,
+      "rating": {"rate": 2.4 , "count": 90}
+
   },
   {
       "title": "Café au Lait",
@@ -169,7 +202,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Latte_art.jpg",
       "id": 16,
-      "price":15
+      "price":23,
+      "rating": {"rate": 3 , "count": 120}
+
   },
   {
       "title": "Irish",
@@ -182,7 +217,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Irish_coffee_glass.jpg",
       "id": 17,
-      "price":20
+      "price":20,
+      "rating": {"rate": 3 , "count": 450}
+
   },
   {
       "title": "Guayoyo",
@@ -194,7 +231,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/A_small_cup_of_coffee.JPG/640px-A_small_cup_of_coffee.JPG",
       "id": 18,
-      "price":18
+      "price":18,
+      "rating": {"rate": 4.7 , "count": 500}
+
   },
   {
       "title": "Cortadito",
@@ -207,7 +246,9 @@
       ],
       "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Cuban_coffee-_2013-04-05_14-30.jpg",
       "id": 19,
-      "price":16
+      "price":80,
+      "rating": {"rate": 2.9 , "count": 200}
+
   },
   {
       "title": "Aguapanela Coffee",
@@ -220,6 +261,8 @@
       ],
       "image": "https://i.postimg.cc/1znP5vhX/Agua-Panela-con-Queso-Fresco-at-La-Puerta-Falsa-5617496209.jpg",
       "id": 20,
-      "price":18
+      "price":14,
+      "rating": {"rate": 3.9 , "count": 300}
+
   }
 ]
