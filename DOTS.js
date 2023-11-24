@@ -33,7 +33,7 @@ var data;
 xhr.addEventListener("load", function () {
 
   data = JSON.parse(xhr.response)
-  //  console.log(xhr.response);
+   console.log(xhr.response);
   console.log(data);//array
   let product_curd = [];
 
